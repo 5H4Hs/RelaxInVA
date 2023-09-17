@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RelaxInVA</string>
+    <string-array name="cities">
+        <item>Richmond</item>
+        <item>Alexandria</item>
+        <item>Arlington</item>
+        <item>Abingdon</item>
+    </string-array>
+</resources>
